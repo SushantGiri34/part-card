@@ -1,1 +1,1 @@
-#its repo for personal project
+#its repo for personal project for software 
